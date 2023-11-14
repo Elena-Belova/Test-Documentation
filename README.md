@@ -13,7 +13,7 @@
 
 * **ТЕСТ-КЕЙСЫ**
   * [Примеры тест-кейсов проверки функционала сайта — Стоматологический комплекс «ПрезиДЕНТ»](https://github.com/Elena-Belova/Test-Documentation/blob/000493c6e2a3a25ad67b268a1dcecaa78b16eb06/%D0%A2%D0%B5%D1%81%D1%82-%D0%9A%D0%B5%D0%B9%D1%81%D1%8B%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20(%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82).pdf)
-  * Примеры тест-кейсов тестирования веб-приложения «Дом Питомца»
+  * [Примеры тест-кейсов тестирования веб-приложения «Дом Питомца»](https://github.com/Elena-Belova/Project-Pet-Home/blob/b1e4b1fd621fce4b1b6b546cd728dbd1af203ad7/5.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%94%D0%BE%D0%BC%20%D0%9F%D0%B8%D1%82%D0%BE%D0%BC%D1%86%D0%B0%20%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B.pdf)
   * [Примеры тест-кейсов тестирования функционала Microsoft To Do](https://github.com/Elena-Belova/Test-Documentation/blob/4a5f2127f6bd484fd30644e67e6bfa1197384e3d/%D0%A2%D0%B5%D1%81%D1%82-%D0%9A%D0%B5%D0%B9%D1%81%D1%8B%20(Microsoft%20To%20Do).pdf)
 
 * **БАГ-РЕПОРТЫ**
