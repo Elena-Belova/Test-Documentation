@@ -18,7 +18,7 @@
   * [Тест-кейсы, составленные по пользователькому сценарию](https://github.com/Elena-Belova/Test-Design/blob/88d15451b8009628751bd270717cc8433ff2008b/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9.pdf)
 
 * **БАГ-РЕПОРТЫ**
-  * Баг-репорты - веб-приложение «Дом Питомца»
+  * [Баг-репорты - веб-приложение «Дом Питомца»](https://github.com/Elena-Belova/Project-Pet-Home/blob/f782357641424d9e87c5dcbe58312dce3c3e9168/4.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.%20%D0%94%D0%BE%D0%BC%20%D0%9F%D0%B8%D1%82%D0%BE%D0%BC%D1%86%D0%B0%20%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B.pdf)
   * [Баг-репорты - Телеграм-бот @QAP_Convertbot](https://github.com/Elena-Belova/Test-Documentation/blob/4a5f2127f6bd484fd30644e67e6bfa1197384e3d/%D0%91%D0%B0%D0%B3%D0%B8%20(%D0%91%D0%BE%D1%82).pdf)
   * [Пример Баг-репорта - моб. приложение «Леонардо хобби-гипермаркет»](https://github.com/Elena-Belova/Test-Documentation/blob/54928470ae6cac41d49be0365b9c2b1490302ebb/%D0%91%D0%B0%D0%B3-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20(%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE).pdf)
   
