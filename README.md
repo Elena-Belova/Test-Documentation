@@ -25,3 +25,12 @@
 * **ОТЧЕТ ПО ТЕСТИРОВАНИЮ**
   * [Отчет по результатам регрессионного тестирования](https://github.com/Elena-Belova/Test-Documentation/blob/000493c6e2a3a25ad67b268a1dcecaa78b16eb06/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.pdf)
 <hr>
+
+* **СКРИНШОТЫ: баг-репорты в JIRA**
+  
+![Jira 1](https://github.com/Elena-Belova/Test-Documentation/assets/148638077/bc9c70dd-914d-42dc-b69a-b9dd1fdfde82)
+![Jira 2](https://github.com/Elena-Belova/Test-Documentation/assets/148638077/cdac2b42-fbc0-4e46-8959-6cdf858917e3)
+![Jira 3](https://github.com/Elena-Belova/Test-Documentation/assets/148638077/7a70b2cc-483b-4800-bb6f-cf533730c552)
+
+
+<hr>
